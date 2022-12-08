@@ -1,0 +1,5 @@
+setup.py
+hexcoverter.egg-info/PKG-INFO
+hexcoverter.egg-info/SOURCES.txt
+hexcoverter.egg-info/dependency_links.txt
+hexcoverter.egg-info/top_level.txt
